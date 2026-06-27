@@ -23,12 +23,12 @@ Project Kisan is an AI-powered agricultural assistant designed to support farmer
 <table>
 <tr>
 <td align="center">
-<img src="mockups/home_screen.png" width="400"><br>
+<img src="mockups/home_screen.png" width="250"><br>
 <b>Home Screen</b>
 </td>
 
 <td align="center">
-<img src="mockups/assistant_screen.png" width="400"><br>
+<img src="mockups/assistant_screen.png" width="250"><br>
 <b>Assistant & Support Screen</b>
 </td>
 </tr>
