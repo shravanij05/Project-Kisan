@@ -38,10 +38,10 @@ Project Kisan is an AI-powered agricultural assistant designed to support farmer
 
 ## 🤝 Contributors
 
-Bliss Gonsalves
-Sanika Mane
-Shravani Joshi
-Trisha Deshmukh
+-Bliss Gonsalves
+-Sanika Mane
+-Shravani Joshi
+-Trisha Deshmukh
 
 ## ⚠️ Disclaimer
 
